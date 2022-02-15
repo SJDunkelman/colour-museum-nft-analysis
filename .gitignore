@@ -1,0 +1,9 @@
+# OS/IDE Dependent
+.DS_Store
+.DS_Store?
+._*
+
+# Project
+venv/
+.idea/
+images/**
